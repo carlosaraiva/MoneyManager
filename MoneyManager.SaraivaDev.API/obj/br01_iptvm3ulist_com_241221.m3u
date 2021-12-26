@@ -1,6 +1,6 @@
 #EXTM3U $ExtFilter="BRAZIL"
-#EXTINF:-1 group-title="CINEMA",BR:A&E FHD
-http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/65659
+#EXTINF:-1,BR:A&E FHD
+http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/65659?group-title=CINEMA
 #EXTINF:-1 group-title=CINEMA,BR:A&E HD
 http://mvu03.wanicelife.com:8880/SWFAF1221739/JJG5RNC9/2531
 #EXTINF:-1 group-title=CINEMA,BR:A&E SD
