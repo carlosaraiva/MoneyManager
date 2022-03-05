@@ -4,3 +4,5 @@
 
 /.vs
 /MoneyManager.SaraivaDev.API/obj/Debug/net5.0
+/MoneyManager.SaraivaDev.API/bin/Debug/net5.0
+/MoneyManager.SaraivaDev.API/obj
