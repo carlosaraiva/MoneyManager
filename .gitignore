@@ -6,3 +6,8 @@
 /MoneyManager.SaraivaDev.API/obj/Debug/net5.0
 /MoneyManager.SaraivaDev.API/bin/Debug/net5.0
 /MoneyManager.SaraivaDev.API/obj
+/MoneyManager.SaraivaDev.Data/obj
+/MoneyManager.SaraivaDev.IoC/obj
+/MoneyManager.SaraivaDev.Model/obj
+/MoneyManager.SaraivaDev.Repository/obj
+/MoneyManager.SaraivaDev.Service/obj
